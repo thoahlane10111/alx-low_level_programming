@@ -3,7 +3,7 @@
  * main prints - size of various types
  * Return: Always 0. (Success)
  */
-int main(void)
+int 32 main(void)
 {
 	printf("size of a char: %d byte(s)\n", sizeof(char));
 	printf("size of a char: %d byte(s)\n", sizeof(int));
