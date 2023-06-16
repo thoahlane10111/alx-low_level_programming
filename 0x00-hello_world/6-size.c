@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-
 /**
  * main prints - size of various types
  * Return: Always 0. (Success)
